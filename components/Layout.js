@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Link from "next/link";
-import Image from "next/Image"
+import Image from "next/image"
 
 
 export default function Layout({ children, title = "HP by Nextjs"}) {return(
